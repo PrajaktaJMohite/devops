@@ -90,6 +90,10 @@ In docker first create docker file then push it into github
 paste above script-> build now-> then open docker
 
 ****** Jenkins pipeline*****
+
+
+    Username=> prajakta_47
+    Password => Jenkins@123
 simple pipeline code 
 
 pipeline {
@@ -159,6 +163,7 @@ copy war from project folder to
  localhost:8080/project folder name http://localhost:8081/travel2/
 
 If target folder is not removing then manually remove it 
+
 
 
 
